@@ -1,16 +1,16 @@
 # ⚡ SyncLab | Laboratorio interactivo de comunicación
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Aprendizaje-Clase%20invertida-6366f1?style=for-the-badge" alt="Clase invertida"/>
-  <img src="https://img.shields.io/badge/Arquitectura-Cliente--servidor-0ea5e9?style=for-the-badge" alt="Cliente servidor"/>
-  <img src="https://img.shields.io/badge/Protocolos-REST%20%7C%20GraphQL%20%7C%20gRPC%20%7C%20WebSockets-10b981?style=for-the-badge" alt="Protocolos"/>
-</p>
-<br>
+  <br>
 
 <img src="https://github.com/diegoih23/Pruebas-readme/blob/main/images/minecraft.gif" width="600"/>
 
 <br><br>
+  <img src="https://img.shields.io/badge/Aprendizaje-Clase%20invertida-6366f1?style=for-the-badge" alt="Clase invertida"/>
+  <img src="https://img.shields.io/badge/Arquitectura-Cliente--servidor-0ea5e9?style=for-the-badge" alt="Cliente servidor"/>
+  <img src="https://img.shields.io/badge/Protocolos-REST%20%7C%20GraphQL%20%7C%20gRPC%20%7C%20WebSockets-10b981?style=for-the-badge" alt="Protocolos"/>
 
+</p>
 <p align="center">
   <strong>Comprende. Experimenta. Compara. Aprende.</strong>
   <br/>
